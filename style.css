@@ -1,0 +1,22 @@
+#divCookies {
+    padding: 5%;
+    background: rgba(46, 237, 202, 0.21);
+}
+
+#divHiddenCookieStatus {
+    display: none;
+}
+
+form {
+    width: 100%;
+}
+
+p.red {
+    font-weight: bold;
+    color: red;
+}
+
+p.green {
+    font-weight: bold;
+    color: green;
+}
